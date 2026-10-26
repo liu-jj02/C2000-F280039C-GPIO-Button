@@ -1,0 +1,12 @@
+Debug/
+Release/
+*.out
+*.obj
+*.map
+*.bin
+*.hex
+*.lst
+*.d
+.settings/
+.launches/
+Thumbs.db
